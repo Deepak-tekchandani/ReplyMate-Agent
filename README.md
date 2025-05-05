@@ -30,7 +30,8 @@
 | React.js   | FastAPI / Node.js | GPT-4o, LangChain  | Redis, MongoDB, PostgreSQL |
 
 ---
-
+📜 𝐕𝐞𝐫𝐢𝐟𝐢𝐞𝐝 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞 : https://lnkd.in/d9i2pjr2
+---
 ## 👥 Team Aptiva AI
 
 | Name                   | Role                         | GitHub                                               |
